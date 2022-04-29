@@ -1,3 +1,5 @@
+// Developed by Luis Diplan All Rights Reserved 2022
+
 import {React, useEffect, useState} from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.css';

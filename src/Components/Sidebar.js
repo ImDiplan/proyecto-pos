@@ -1,3 +1,5 @@
+// Developed by Luis Diplan All Rights Reserved 2022
+
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap';

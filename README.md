@@ -1,3 +1,13 @@
+# Introduction
+
+This is a simple Pos system, the project purpose was only educational.
+
+This project belongs to Luis Ángel Diplan
+
+https://github.com/ImDiplan
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Considerations
+
+Maybe the API's that are hosted on free domains cannot be longer accesible, so, you can download them in GitHub, the repositories are:
+
+main-service-api for Items Module
+api-users for users module and login
+invoice-api for invoice module
+
+And download db.sql from this repository for data
+
+The login users are:
+
+user - 1234 (user privilegies)
+admin - 1234 (admin privilegies)
+
